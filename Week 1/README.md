@@ -3,3 +3,5 @@
 Over the course of this week, you will equip yourselves with all the neccessary tools for Data Science and Machine Learning. You will also get familiarised with the various coding environments common for data science, and set up the one that you decide to use for this project.
 
 ### Resources
+
+Start off with [Edureka’s 10 hour data science course on YouTube](https://www.youtube.com/watch?v=-ETQ97mXXF0):(till 3:31:04). If you have done a course on probability or have the necessary background (check chapters on the video) then you can start from 2:00:34.
