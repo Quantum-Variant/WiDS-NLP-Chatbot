@@ -1,8 +1,8 @@
 # Week 2 - Diving into Theory
 
-Week 2 will be a mote theoretical one, where you will understand some concepts of Natural Language Processing that will go into the intelligence of the Chatbot. 
+Week 2 will be a more theoretical one, where you will understand some concepts of Natural Language Processing that will go into the intelligence of the Chatbot. 
 
-The key recource for this week will be the book by [Dan Jurafsky](https://web.stanford.edu/~jurafsky/slp3/), which you can find in the week 2 folder.
+The key resource for this week will be the book by [Dan Jurafsky](https://web.stanford.edu/~jurafsky/slp3/), which you can find in the Week 2 folder.
 
 ## Chapter 2
 
