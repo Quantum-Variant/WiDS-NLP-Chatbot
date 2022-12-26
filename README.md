@@ -13,3 +13,4 @@ Good luck everyone! Hoping you enjoy and benefit from this project. :)
 You can view the week-wise content through the respective folders.
 
 [Week 1](./week1/)
+[Week 2](./week2/)
