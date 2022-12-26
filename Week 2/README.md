@@ -2,7 +2,7 @@
 
 Week 2 will be a mote theoretical one, where you will understand some concepts of Natural Language Processing that will go into the intelligence of the Chatbot. 
 
-The key recource for this week will be the book by [Dan Jurafsky]() , which you can find in the week 2 folder.
+The key recource for this week will be the book by [Dan Jurafsky](Speech and Language Processing - Jurafsky.pdf), which you can find in the week 2 folder.
 
 ## Chapter 2
 
