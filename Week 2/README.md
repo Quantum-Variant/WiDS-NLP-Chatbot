@@ -14,4 +14,4 @@ A very useful chapter where you will be introduced to N-Gram language models. Co
 
 ## Chapter 4
 
-Here, you will understand Naive Bayes classification and Sentiment Analysis. Cover ssections 4.1 - 4.8
+Here, you will understand Naive Bayes classification and Sentiment Analysis. Cover sections 4.1 - 4.8
